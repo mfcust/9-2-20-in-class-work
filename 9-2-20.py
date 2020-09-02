@@ -44,3 +44,9 @@ and this, you can use three single quotes to comment out large blocks of code.''
 
 
 
+
+#Any advanced calculations and/or operators you would like to share?? Calculate below:
+
+
+
+
