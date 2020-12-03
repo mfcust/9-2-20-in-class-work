@@ -64,3 +64,14 @@ and this, you can use three single quotes to comment out large blocks of code.''
 
 
 
+#4) What is the // operator? Perform a calculation with it below
+
+
+
+
+#5) Use the % operator and the // operator to divide 10 by -3. Do you notice something unusual about the output when compared to dividing 10 by 3? Why is it different?
+
+
+
+
+
