@@ -21,7 +21,7 @@ and this, you can use three single quotes to comment out large blocks of code.''
 
 
 
-#### These are the most common operators for performing math in python: +(addition), -(subtraction), /(division), *(multiplication)####
+#### These are the most common arithmetic operators in python: +(addition), -(subtraction), /(division), *(multiplication)####
 
 
 
